@@ -1,7 +1,7 @@
 # nmpc_motion_planner
 This repository includes Nomlinear model predictive control based motion planner algotrithm for UR20 based CasADi and ROS
 
-## dependancies
+## Dependancies
 * [UR20 gazebo sim environment](https://github.com/sm3304love/ur20_description)
 * ROS Noetic
 * [CasADi](https://github.com/casadi/casadi)
